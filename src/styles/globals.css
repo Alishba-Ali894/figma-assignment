@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.section {
+  background-image: url('https://tse2.mm.bing.net/th?id=OIP.M4JuojlK4_fO5RdK2GdHPAHaEK&pid=Api&P=0&h=220');
+}
